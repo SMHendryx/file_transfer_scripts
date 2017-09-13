@@ -1,0 +1,2 @@
+source setupDirectories.sh
+source getDataFromRemote.sh subsetted_samples

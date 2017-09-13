@@ -1,0 +1,13 @@
+Bash script to shadow directoy structure on /data/faces/neonate_pain:
+	setup_directories.sh
+	Should be one line of code with an rsync call
+
+Bash script to list directory contents on /data/faces/neonate_pain:
+	list_contents.sh
+
+Bash script to get data:
+	get_data_from_remote.sh
+		provide directory name to Bash script
+
+Bash script to push annotations to svn and /data and video segments to /data.
+
