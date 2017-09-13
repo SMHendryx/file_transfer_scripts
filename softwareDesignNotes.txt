@@ -9,5 +9,7 @@ Bash script to get data:
 	get_data_from_remote.sh
 		provide directory name to Bash script
 
-Bash script to push annotations to svn and /data and video segments to /data.
+TODO:
+Write Bash script to push annotations to svn and /data and video segments to /data.
+	figure out directory strucutre
 
